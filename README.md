@@ -51,7 +51,9 @@ Isso foi crucial para entender como organizar e estruturar programas de forma ma
 
 - Descrição: Como iniciante, muitas vezes me deparei com erros de compilação e comportamentos inesperados em meus programas. A habilidade de depurar e resolver problemas é uma habilidade essencial que requer prática e paciência.
 
-- Estratégias de Superar: Para superar essa dificuldade, adotei uma abordagem metódica para a resolução de problemas, dividindo-os em etapas menores e testando soluções incrementalmente. Também busquei orientação e feedback de instrutores e colegas de classe, e utilizei ferramentas de depuração disponíveis no ambiente de desenvolvimento integrado (IDE). Esses desafios, apesar de complicados, foram chances preciosas de aprendizado que me ajudaram a aprimorar minhas habilidades de programação. Com esforço e persistência, consegui superar essas barreiras e seguir adiante na minha jornada para me tornar uma programadora mais competente e confiante.
+- Estratégias de Superar: Para superar essa dificuldade, adotei uma abordagem metódica para a resolução de problemas, dividindo-os em etapas menores e testando soluções incrementalmente. Também busquei orientação e feedback de instrutores e colegas de classe, e utilizei ferramentas de depuração disponíveis no ambiente de desenvolvimento integrado (IDE).
+
+Esses desafios, apesar de complicados, foram chances preciosas de aprendizado que me ajudaram a aprimorar minhas habilidades de programação. Com esforço e persistência, consegui superar essas barreiras e seguir adiante na minha jornada para me tornar uma programadora mais competente e confiante.
 
 ## 5. 📁 Acesso ao projeto 
 
