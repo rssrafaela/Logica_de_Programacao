@@ -55,6 +55,8 @@ Isso foi crucial para entender como organizar e estruturar programas de forma ma
 
 ## 5. 📁 Acesso ao projeto 
 
-## 6. 🎯 Status do projeto - Concluído ✅ 
+## 6. 🎯 Status do projeto 
+
+- Concluído ✅ 
 
 ## Licença Este repositório é fornecido sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
