@@ -1,6 +1,10 @@
 # Projetos de Desenvolvimento da Lógica de Programação com Linguagem C 
 
-## 1. 📝 Descrição Este repositório contém uma série de projetos desenvolvidos durante o curso de Lógica de Programação com Orientação a Objetos na Coti Informática. O curso abrange uma variedade de tópicos fundamentais para quem deseja se tornar um programador, desde lógica de programação, manipulação de dados, até conceitos mais avançados de orientação a objetos e desenvolvimento web. ## 2. Tecnologias Utilizadas 
+## 1. 📝 Descrição 
+
+Este repositório contém uma série de projetos desenvolvidos durante o curso de Lógica de Programação com Orientação a Objetos na Coti Informática. O curso abrange uma variedade de tópicos fundamentais para quem deseja se tornar um programador, desde lógica de programação, manipulação de dados, até conceitos mais avançados de orientação a objetos e desenvolvimento web. 
+
+## 2. Tecnologias Utilizadas 
 
 ### Módulo 1 - Lógica de Programação com Orientação a Objetos
 
