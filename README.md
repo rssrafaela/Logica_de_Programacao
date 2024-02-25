@@ -43,7 +43,9 @@ Durante o módulo 1 do curso, adquiro uma série de habilidades e conhecimentos 
 
 Isso foi crucial para entender como organizar e estruturar programas de forma mais eficiente e reutilizável. Estes são apenas alguns dos principais aprendizados que obtive durante o módulo 1 do curso. Cada tópico foi essencial para meu crescimento como programadora e espero continuar aprendendo e aprimorando minhas habilidades em futuros projetos e estudos.
 
-## 4. 🚧 Desafios Durante o curso, também enfrentei alguns desafios ao aprender esses novos conceitos e tecnologias. 
+## 4. 🚧 Desafios 
+
+Durante o curso, também enfrentei alguns desafios ao aprender esses novos conceitos e tecnologias. 
 
 4. 1 Abstração em Programação Orientada a Objetos
 
