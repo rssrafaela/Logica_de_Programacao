@@ -67,4 +67,6 @@ Esses desafios, apesar de complicados, foram chances preciosas de aprendizado qu
 
 - Concluído ✅ 
 
-## Licença Este repositório é fornecido sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+## Licença 
+
+Este repositório é fornecido sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
